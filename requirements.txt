@@ -3,16 +3,12 @@ fastapi
 
 uvicorn
 
-requests
-
-langchain
+langserve
 
 langchain-core
 
 langchain-google-genai
 
-langserve
+requests
 
-pydantic
-
-sse-starlette
+sse_starlette
